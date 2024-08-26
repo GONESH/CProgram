@@ -1,0 +1,1 @@
+printf("The factorial of a number is %d\n", fact);
