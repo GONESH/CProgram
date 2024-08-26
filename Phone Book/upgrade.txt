@@ -1,0 +1,7 @@
+Use the phone book program to upgrade the values.
+
+1. use for loop to enter n number of phone records.
+2. print n number of records using loop.
+3. use file input.output to write and save the file as txt format in 
+4. Every records update as index
+5. Access freely
