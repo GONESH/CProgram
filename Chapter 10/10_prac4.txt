@@ -1,0 +1,2 @@
+ Thapa,120
+ Peter,300
